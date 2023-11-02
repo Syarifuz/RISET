@@ -24,18 +24,17 @@ Hasil dari penelitian ini adalah pemahaman komprehensif tentang aplikasi IoT dal
 Secara keseluruhan, penelitian pada paper ini merupakan Literature Review (SLR) sistematis yang mengikuti langkah-langkah logis dalam pemilihan sumber daya, analisis data, dan menyajikan hasil yang komprehensif tentang topik yang diteliti.
  
 
-=========================================================================================================================================
+=====================================================================================
 
 Perancangan Topologi FTTH dan Optimalisasi Received Power pada Optical Netork Unit
 Dalam penelitian ini, digunakan pendekatan eksplanatif yang melibatkan uji terhadap teori. Metode penelitian yang diterapkan adalah metode kuantitatif yang fokus pada analisis received power pada Optical Network Unit. Data yang diperoleh dari analisis ini kemudian diolah untuk melakukan analisis lebih lanjut terkait dengan Quality of Service (QoS) dan penentuan topologi jaringan yang optimal. Selain itu, penelitian ini juga mengadopsi pendekatan penelitian induktif, yang melibatkan pengumpulan dan analisis data guna mengembangkan teori atau hipotesis yang relevan dengan topik penelitian tersebut. Dengan demikian, penelitian ini menggabungkan pendekatan eksplanatif dan induktif untuk memberikan pemahaman yang lebih komprehensif terhadap topologi jaringan Optical Network Unit.
--	Pengumpulan data		
--	: Dilakukan dengan melakukan observasi ke client untuk 
+-	Pengumpulan data  : Dilakukan dengan melakukan observasi ke client untuk 
   mendapatkan data received power pada ONU
--	Analisis data		: Melakukan analisis dengan mengklasifikasikan received 
+-	Analisis data	    : Melakukan analisis dengan mengklasifikasikan received 
   power pada ONU
--	Identifikasi tema		: Hasil data received power diklasifikan antara yang bagus 
+-	Identifikasi tema	: Hasil data received power diklasifikan antara yang bagus 
   dan jelek  
--	Pengembangan teori	: Perancangan topologi untuk mengoptimalkan received 
+-	Pengembangan teori: Perancangan topologi untuk mengoptimalkan received 
   power agar lebih optimal
 -	Pelaporan temuan 	: Hasil perancangan topologi dilakukan pengecekan 
   received power
@@ -50,4 +49,3 @@ Dalam penelitian ini, digunakan pendekatan eksplanatif yang melibatkan uji terha
 -	Teori terkait received power yang optimal
 -	Teori terkait topologi jaringan FTTH
 -	Teori terkait QoS (Quality of Service)
-
