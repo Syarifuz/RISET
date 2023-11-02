@@ -49,3 +49,9 @@ Dalam penelitian ini, digunakan pendekatan eksplanatif yang melibatkan uji terha
 -	Teori terkait received power yang optimal
 -	Teori terkait topologi jaringan FTTH
 -	Teori terkait QoS (Quality of Service)
+
+	Link jurnal :
+https://www.sciencedirect.com/science/article/pii/S266591742300154X
+
+	Metode Penelitian :
+
