@@ -53,5 +53,5 @@ Dalam penelitian ini, digunakan pendekatan eksplanatif yang melibatkan uji terha
 	Link jurnal :
 https://www.sciencedirect.com/science/article/pii/S266591742300154X
 
-	Metode Penelitian :
+	Metodologi Penelitian :
 
