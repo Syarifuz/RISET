@@ -56,6 +56,7 @@ https://www.sciencedirect.com/science/article/pii/S266591742300154X
 	Metodologi Penelitian :
 
 BAB 3 METODOLOGI PENELITIAN
+<ul>
 Perancangan pada penelitian ini melewati beberapa proses untuk menyelesaikannya, hal tersebut bias ditampilkan dalam diagram alir pada Gambar dibawah ini. 
 
 Tahap pertama menentukan daerah mana yang diminta oleh PT. Persada Data Multimedia untuk dianalisa pada jaringan FTTH. Setelah itu, melakukan survey lokasi sekaligus melakukan pendataan data terkait received power pada ONU. Setelah mendapatkan data received power ONU, dilakukan analisis data dan melakukan perancangan topologi FTTH dengan perhitungan received power yang memenuhi standar di setiap ONU. Perancangan meliputi penentuan titik-titik penempatan ODC, ODP, dan pelanggan, menggunakan google earth dengan menyesuaikan lokasi OLT (central office). Kemudian melakukan realisasi hasil perancangan.
