@@ -1,5 +1,5 @@
 # RISET
-Tugas 1 Riset Informatika_20081010081_Mohammad Syarifuz Zaim
+<h1>Tugas Riset Informatika_20081010081_Mohammad Syarifuz Zaim </h1>h1
 
 Nama	: Mohammad Syarifuz Zaim
 NPM	: 20081010081
